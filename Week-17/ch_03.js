@@ -17,4 +17,3 @@ console.log(map.size);
 
 // Check if the Map has a key called "role" and output the result (true or false).
 console.log(map.has("role"));
-console.log(map.has("role"));
