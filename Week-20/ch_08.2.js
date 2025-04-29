@@ -1,10 +1,7 @@
-import{a , b , c }
+// Original variables (unchanged)
+let a = 10;
+let b = 20;
+let c = 30;
 
-
-// main.js File
-console.log(calc(modOne.numOne, modOne.numTwo, modOne.numThree)); // 60
-
-// mod-two.js File
-let a = 10; // Do Not Edit Names
-let b = 20; // Do Not Edit Names
-let c = 30; // Do Not Edit Names
+// Export them with new names
+export { a as numOne, b as numTwo, c as numThree };
