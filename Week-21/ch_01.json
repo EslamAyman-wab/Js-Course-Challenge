@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "Title": "title1",
+        "Body": "Article Number 1 Body",
+        "Category": "All",
+        "Author": "Ali"
+    },
+    {
+        "id": 2,
+        "Title": "title1",
+        "Body": "Article Number 2 Body",
+        "Category": "All",
+        "Author": "Mahmoud"
+    },
+    {
+        "id": 3,
+        "Title": "title1",
+        "Body": "Article Number 3 Body",
+        "Category": "All",
+        "Author": "Osama"
+    },
+    {
+        "id": 4,
+        "Title": "title1",
+        "Body": "Article Number 4 Body",
+        "Category": "All",
+        "Author": "Sayed"
+    },
+    {
+        "id": 5,
+        "Title": "title1",
+        "Body": "Article Number 5 Body",
+        "Category": "All",
+        "Author": "Ahmed"
+    }
+]
