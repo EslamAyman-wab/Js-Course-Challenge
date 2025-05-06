@@ -1,0 +1,22 @@
+{
+  "name": "js-course-challenge",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "The Challenges that I have done in the cours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EslamAyman-wab/Js-Course-Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EslamAyman-wab/Js-Course-Challenge/issues"
+  },
+  "homepage": "https://github.com/EslamAyman-wab/Js-Course-Challenge#readme",
+  "keywords": []
+}
