@@ -1,5 +1,8 @@
 {
     "version": "0.2.0",
+<<<<<<< HEAD
+    "configurations": []
+=======
     "configurations": [
         {
             "type": "node",
@@ -37,4 +40,5 @@
             "webRoot": "${workspaceFolder}"
         }
     ]
+>>>>>>> ee8f94791d0f96dc69436bded482a4669176d2d7
 }
