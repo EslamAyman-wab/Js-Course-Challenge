@@ -1,6 +1,11 @@
-function myFunction() {
-  console.log("Hello, World!");
-}
+let Mypromes = new Promise((resolve, reject) => {
+  let test = true;
 
-console.log(myFunction.toString());
-console.log(myFunction.toString().length);
+  if (test) {
+    console.log(`the test = ${test}`);
+  } else {
+    console.log(`the test = ${test}`);
+  }
+});
+
+console.log(Mypromes);
