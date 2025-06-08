@@ -1,6 +1,7 @@
-function myFunction() {
-  console.log("Hello, World!");
+function iamACallback() {
+  console.log("I am Callback function");
 }
 
-console.log(myFunction.toString());
-console.log(myFunction.toString().length);
+setTimeout(iamACallback, 2000);
+
+// iamACallback();
